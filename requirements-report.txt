@@ -1,0 +1,2 @@
+# Only needed for charts and reports, not Hadoop/Spark workers.
+matplotlib==3.11.2

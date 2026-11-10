@@ -1,0 +1,9 @@
+{
+  "max_features": 1000,
+  "min_df": 2,
+  "max_df": 0.9,
+  "stop_words": "english",
+  "sublinear_tf": true,
+  "smooth_idf": true,
+  "norm": "l2"
+}

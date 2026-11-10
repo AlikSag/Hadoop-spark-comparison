@@ -1,0 +1,8 @@
+{
+  "workers": 2,
+  "partitions": 2,
+  "task_memory_mb": 1024,
+  "task_heap_mb": 512,
+  "application_master_memory_mb": 1024,
+  "split_bytes": 67108864
+}

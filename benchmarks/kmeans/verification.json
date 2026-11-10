@@ -1,0 +1,98 @@
+[
+  {
+    "iterations": 1,
+    "repetition": 1,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 4.163336342344337e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 1,
+    "repetition": 2,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 4.163336342344337e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 1,
+    "repetition": 3,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 4.163336342344337e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 3,
+    "repetition": 1,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 5.551115123125783e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 3,
+    "repetition": 2,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 5.551115123125783e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 3,
+    "repetition": 3,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 5.551115123125783e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 5,
+    "repetition": 1,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 5.551115123125783e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 5,
+    "repetition": 2,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 5.551115123125783e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 5,
+    "repetition": 3,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 5.551115123125783e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 10,
+    "repetition": 1,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 6.938893903907228e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 10,
+    "repetition": 2,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 6.938893903907228e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  },
+  {
+    "iterations": 10,
+    "repetition": 3,
+    "documents": 1000,
+    "maximum_absolute_center_difference": 6.938893903907228e-17,
+    "relative_tolerance": 1e-09,
+    "absolute_tolerance": 1e-10
+  }
+]

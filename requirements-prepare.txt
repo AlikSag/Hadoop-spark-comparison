@@ -1,0 +1,2 @@
+# Local feature preparation only; not required by Hadoop/Spark workers.
+scikit-learn==1.9.1

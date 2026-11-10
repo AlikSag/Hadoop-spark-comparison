@@ -1,0 +1,31 @@
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+data/
+results/*
+!results/.gitkeep
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Local credentials and editor settings
+.env
+.env.*
+!.env.example
+.aws/
+.agents/
+.codex/
+.idea/
+.vscode/
+
+# OS files and development caches
+.DS_Store
+Thumbs.db
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local reference paper (third-party publication)
+/3401-7254-1-PB.pdf

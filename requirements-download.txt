@@ -1,0 +1,2 @@
+# Only required to download the source corpus; not needed by Hadoop/Spark jobs.
+datasets==5.1.0
